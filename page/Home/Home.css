@@ -6,14 +6,36 @@
     height: 350px;
     object-fit:cover
 }
+
+h4 {
+    display: flex;
+    padding: 40px;
+    width: 33%;
+    height: 29%;
+    position: absolute;
+    padding-bottom:  34px;
+    bottom: 500px;
+    top:182px;
+    margin-left: 45px;
+    font-size: 35px;
+    color: white;
+    background-color: rgba(90, 84, 84, 0.455);
+    
+}
+
+.principal {
+    
+   
+}
+
 .info {
     display: flex;
     justify-content:flex-end;
     
-    border: 3px black solid;
+   
 }
 .xtd {
-    border: 3px red solid;
+    
     display:block;
     width:45%;
     margin-right: 100px;
@@ -35,7 +57,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 3px yellow solid;
+    
     width: 50%;
     height: auto;
     
@@ -50,10 +72,11 @@ strong {
     color: black;
 }
 .text {
+    flex-direction: column;
     position: absolute;
     bottom:80px;
     margin-left: 20px;
-    margin-bottom: 160px;
+    margin-bottom: 70px;
     padding-bottom: 90px;
     color: white;
 }
