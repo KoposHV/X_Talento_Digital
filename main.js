@@ -8,4 +8,3 @@ import Cursos from './page/Cursos/Cursos';
 
 Navigator()
 Home()
-Cursos()

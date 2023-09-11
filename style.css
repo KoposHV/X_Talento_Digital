@@ -9,14 +9,16 @@ body {
   line-height: 1.4;
 }
 a {
+  color:rgb(218, 22, 22);
   text-decoration: none;
-  color: rgb(218, 22, 22)
   
 }
 
-a:hover {
+nav a:hover {
   color: black;
-  transition:0.4s ;
+  transition:0.3s linear ;
+  border-bottom: 3px black solid;
+
 }
 
 li {

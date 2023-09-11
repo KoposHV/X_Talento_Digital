@@ -37,7 +37,7 @@ const template = () => {
       <a href="#null" id="blog-link">Blog</a>
     </li>
     <li>
-      <a href="#null" id="alumnos-link">Alumnos</a>
+      <a href="#null" id="alumni-link">Alumni</a>
     </li>
     <li>
       <a href="#null" id="colaboradores-link">Colaboradores</a>

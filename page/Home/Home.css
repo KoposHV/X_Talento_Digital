@@ -39,6 +39,12 @@ h4 {
     margin-left: 40px;
     margin-top: 55px;
     }
+.xtd a {
+    color: black;
+}
+.xtd a:hover {
+   color: rgb(218, 22, 22);;
+}
 h1 {
     color: rgb(218, 22, 22);
     font-size: 35px;
@@ -64,6 +70,9 @@ h2 {
     margin-right: 80px;
     
     
+}
+.text a:hover {
+    color: black;
 }
 strong {
     color: black;

@@ -16,7 +16,8 @@ section > h1 {
 }
 
 .fecha1 {
-    display: flex;
+    display:flex;
+    
     color: gray;
     border:3px green solid;
     font-size: 23px;
@@ -29,11 +30,25 @@ section > h1 {
     font-size: 30px;
     font-weight: 500;
 }
-.detalles {
+.detalles1 {
     display: flex;
     align-items: center;
     gap:40px
 }
-.duracion {
-    column-count:2;
+.duracion1 {
+   display:block;
+}
+.lugar {
+    padding-bottom:50px;
+}
+.btn1 {
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    color: rgb(218, 22, 22);
+    font-weight: 600;
+}
+.btn1:hover {
+    color: white;
+    background-color: rgb(218, 22, 22);
 }
